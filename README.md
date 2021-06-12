@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 Instagram.com/niyozabduxairov
 https://t.me/neo_koder
-Https://youtube.com/niyozabduxairov
+https://youtube.com/niyozabduxairov
 <!---
 NiyozNeo/NiyozNeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

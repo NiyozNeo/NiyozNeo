@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Frontend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-Instagram.com/niyozabduxairov
+https://instagram.com/niyozabduxairov
 https://t.me/neo_koder
 https://youtube.com/niyozabduxairov
 <!---

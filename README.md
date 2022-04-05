@@ -24,3 +24,5 @@
     src="https://commons.wikimedia.org/wiki/File:YouTube_play_button_icon_(2013%E2%80%932017).svg"
   /></a>
 &nbsp;
+
+[![Niyoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=niyozneo)](https://github.com/anuraghazra/github-readme-stats)

@@ -25,6 +25,7 @@
   /></a>
 &nbsp;
 &nbsp;&nbsp;
-
+### Stats
 [![Niyoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=niyozneo&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyozneo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

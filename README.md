@@ -14,14 +14,14 @@
   <img
     width="24"
     alt="Follow me on Telegram"
-    src="https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_telegram-plane.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png"
   /></a>
 &nbsp;
 <a href="https://youtube.com/niyozabduxairov" title="Follow me on You tube">
   <img
     width="24"
     alt="Follow me on You tube"
-    src="https://commons.wikimedia.org/wiki/File:YouTube_play_button_icon_(2013%E2%80%932017).svg"
+    src="https://yt3.ggpht.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s900-c-k-c0x00ffffff-no-rj"
   /></a>
 &nbsp;
 

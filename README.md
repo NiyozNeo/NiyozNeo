@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Niyoz Abduxairov
-- Now I am learning Node.js 
+- Now I am Node.js developer 
 
 ### Getting in touch
 
@@ -21,7 +21,7 @@
   <img
     width="24"
     alt="Follow me on You tube"
-    src="https://yt3.ggpht.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s900-c-k-c0x00ffffff-no-rj"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg"
   /></a>
 &nbsp;
 

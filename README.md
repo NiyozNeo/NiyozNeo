@@ -21,8 +21,8 @@
   <img
     width="24"
     alt="Follow me on You tube"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png"
   /></a>
 &nbsp;
-
+>
 [![Niyoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=niyozneo&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

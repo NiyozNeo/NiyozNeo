@@ -25,4 +25,4 @@
   /></a>
 &nbsp;
 &nbsp;&nbsp;
-[![Niyoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=niyozneo&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[Niyoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=niyozneo&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

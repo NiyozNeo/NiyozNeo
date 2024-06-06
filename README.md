@@ -17,7 +17,7 @@ I am a passionate software developer with over three years of experience special
 
 ## Profile Views
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mabrur-h">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=niyozneo">
 
 ## Contact Me
 

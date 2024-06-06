@@ -17,7 +17,7 @@ I am a passionate software developer with over three years of experience special
 
 ## Profile Views
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/niyozneo/visits)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mabrur-h">
 
 ## Contact Me
 

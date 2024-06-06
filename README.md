@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Niyozbek]! 👋
 
 <!-- Auto-generated summary: -->
 Welcome to my profile! I am a dedicated software developer with over three years of experience specializing in Node.js. My passion lies in creating scalable and efficient backend solutions, and I am always eager to learn and implement new technologies to push the boundaries of what's possible.
@@ -17,8 +17,8 @@ I am a passionate software developer with over three years of experience special
 
 ## Profile Views
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/your-username/visits)
+![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/niyozneo/visits)
 
 ## Contact Me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/your-profile) or check out my work on [GitHub](https://github.com/your-username).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/niyozneo/) or check out my work on [GitHub](https://github.com/niyozneo).

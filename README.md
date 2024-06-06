@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Your Name] - Profile</title>
+    <title>[Niyozbek Abdukhairov] - Profile</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -60,7 +60,7 @@
     </ul>
 
     <div class="counter">
-        <img src="https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/your-username/visits" alt="Profile views">
+        <img src="https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/niyozneo/visits" alt="Profile views">
         <span>Profile Views</span>
     </div>
 
